@@ -5,8 +5,15 @@
     box-sizing: border-box;
 }
 body{
+    background-color: gray;
+
+}
+h1,p{
     text-align: center;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    background-color: gray;
+    /* height: 30vh; */
+    font-size: 40px;
+    padding: 30px;
 }
